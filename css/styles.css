@@ -125,7 +125,6 @@ li {
     text-decoration: underline;
     color: rgb(59, 95, 95);
     
-    justify-content: space-between;
   }
 
 .footer__text:hover,
